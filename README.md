@@ -1,3 +1,7 @@
+Developed a mini shell which supports all basic linux commands like ls, cd, mkdir etc. Implemented background processes and signal handling along with avoiding zombie processes
+
+
+
 ---QUESTION STATEMENT----
 Implement a shell which supports semi-colon separated list of commands. Use 'strtok' to tokenize the command. 
 
